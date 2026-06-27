@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/plus-grand-que-nous/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Plus Grand Que Nous](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/plus-grand-que-nous/) |
+| **Get License** | [Get a Licensing Quote for Plus Grand Que Nous](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/plus-grand-que-nous/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On s'évade dans la nuit, bébé, juste toi et moi
+> Ton parfum sur ma veste, c'est toi qui fais la loi
+> Tes yeux dans la pénombre, une vraie galaxie
+> C'est plus grand que nous, une douce folie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
