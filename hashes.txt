@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Plus Grand Que Nous
+
+This log tracks the cryptographic history and versioning for the song **Plus Grand Que Nous** (plus-grand-que-nous).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:12:26.977815 | `v1` | `b6154b1dcd4cc313ee5b6d76d1445bce1545b32ae61dc7b38f612a3a4169d419` | `5432a714e97755745f439dfa6665816b4caf9e193642c93e089ab481021d15e0` | `2026-06-27_plus-grand-que-nous-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
